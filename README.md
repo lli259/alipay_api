@@ -1,5 +1,5 @@
 # alipay_api
-http://python.jobbole.com/86420/
+http://python.jobbole.com/86420/[转载地址]
 
 因工作需要研究了支付宝即时到帐接口，并成功应用到网站上，把过程拿出来分享。
 
